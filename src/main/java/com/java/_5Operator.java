@@ -11,7 +11,7 @@ public class _5Operator {
 
         score = 78;
         grade = (score>90) ? 'A': (score>80) ? 'B':'C';
-        System.out.println(grade문);
+        System.out.println(grade);
 
     }
 }
